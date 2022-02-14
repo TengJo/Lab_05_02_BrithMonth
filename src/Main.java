@@ -5,7 +5,7 @@ public class Main
     {
 	boolean correctInput = false;
     int birthMonth;
-    birthMonth = 10;
+    birthMonth = 45;
         if (birthMonth >= 1 && birthMonth <= 12)
         {
             correctInput = true;
